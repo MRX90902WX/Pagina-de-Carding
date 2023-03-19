@@ -12,7 +12,7 @@ CLONAR REPOSITORIO
 - php -S 0.0.0.0:4444 
 
 #Copian el link del localhost
-Y lo pegan en Google
+y lo pegan en Google
 
 *****
 Sígueme >_
