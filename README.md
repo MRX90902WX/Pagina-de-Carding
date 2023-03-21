@@ -9,7 +9,7 @@ CLONAR REPOSITORIO
 
 - pkg install php
 
-- php -S 0.0.0.0:4444 
+- bash carder
 
 #Copian el link del localhost
 y lo pegan en Google
